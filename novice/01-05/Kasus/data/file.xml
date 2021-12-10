@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row Team="Inter Milan" Captain="Handanovic">
+  </row>
+  <row Team="Chelsea FC" Captain="Azpilicueta">
+  </row>
+  <row Team="Juventus" Captain="Chiellini">
+  </row>
+  <row Team="Barcelona" Captain="Busquets">
+  </row>
+  <row Team="Tottenham Hotspurs" Captain="Lloris">
+  </row>
+  <row Team="Real Madrid" Captain="Benzema">
+  </row>
+  <row Team="Manchester City" Captain="Fernandinho">
+  </row>
+</root>
