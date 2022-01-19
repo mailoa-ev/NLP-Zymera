@@ -1,1 +1,1 @@
-Folder 01-02 berisi latihan struktur data dengan Python
+Folder 01-02 ini berisi latihan struktur data dengan Python
