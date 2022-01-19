@@ -1,0 +1,1 @@
+Folder 01-01 hingga 01-05 berisi tentang materi-materi dasar Python (termasuk OOP), sedangkan folder 02-01 hingga 02-04 berisi tentang topik intermediate-advanced untuk Python. Sebaiknya menguasai kedua folder tersebut sebelum masuk ke folder spacy-NLP.
